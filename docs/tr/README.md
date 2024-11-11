@@ -6,7 +6,7 @@ Mozilla yerelleştirme (l10n) topluluğuna hoş geldiniz! Mozilla, dünyanın en
 
 Türkçe yerelleştirme ekibi olarak Firefox ve Thunderbird gibi yazılımların ve mobil uygulamaların yanı sıra Mozilla web sitelerini de Türkçeye çeviriyoruz.
 
-1. Çeviri aracımız [Pontoon](https://pontoon.mozilla.org)’a kaydolun. Tüm Mozilla yazılımlarının ve web sitelerini çevirileri burada yapılıyor.
+1. Çeviri aracımız [Pontoon](https://pontoon.mozilla.org)’a kaydolun. Tüm Mozilla yazılımlarının ve web sitelerinin çevirileri burada yapılır.
 2. Çeviriye başlamadan önce aşağıdaki yönergelerimizi okuyun.
 3. Çevirmek istediğiniz ürünü seçip çeviri önerilerinizi göndermeye başlayın. [Ekip yöneticilerimiz](https://pontoon.mozilla.org/tr/contributors/) kısa süre içinde önerilerinizi inceleyerek uygun olanları kabul edecek.
 4. Dilediğiniz zaman [ekip yöneticilerimize ulaşarak](https://www.mozilla.org.tr/iletisim/) sorularınızı sorabilir, çeviri önerileriniz hakkında görüş alabilir veya eleştirilerinizi paylaşabilirsiniz. Ayrıca [Element sunucumuzdaki #l10n-community kanalına](https://chat.mozilla.org/#/room/#l10n-community:mozilla.org) katılarak tüm Mozilla çevirmenleriyle yazışabilirsiniz.
